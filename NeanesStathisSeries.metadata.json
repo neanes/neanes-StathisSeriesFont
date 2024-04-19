@@ -7506,7 +7506,7 @@
     },
     "psifiston.alt01": {
       "psifiston": [
-        -0.001,
+        -0.006,
         0.458
       ]
     }
@@ -7913,7 +7913,7 @@
     "oligonKentimataBelow.alt02": 1.75,
     "psifiston.salt01": 0.0,
     "heteronConnecting.salt01": 0.0,
-    "psifiston.alt01": 0.0
+    "psifiston.alt01": -0.004
   },
   "optionalGlyphs": {
     "oligonKentimataBelow.alt01": {
@@ -11597,12 +11597,12 @@
     },
     "psifiston.salt01": {
       "bBoxNE": [
-        0.76,
-        0.555
+        0.794,
+        0.492
       ],
       "bBoxSW": [
-        -0.759,
-        0.103
+        -0.772,
+        0.109
       ]
     },
     "heteronConnecting.salt01": {
@@ -11617,12 +11617,12 @@
     },
     "psifiston.alt01": {
       "bBoxNE": [
-        0.91,
-        0.461
+        0.878,
+        0.411
       ],
       "bBoxSW": [
-        -0.911,
-        0.1
+        -0.838,
+        0.161
       ]
     }
   },

@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1646795337
-ModificationTime: 1713557379
+ModificationTime: 1713563641
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -64,50 +64,45 @@ Lookup: 260 0 0 "'mark' Mark Positioning lookup 0" { "'mark' Mark Positioning lo
 Lookup: 262 0 0 "'mkmk' Mark to Mark lookup 1" { "'mkmk' Mark to Mark lookup 1 subtable"  } ['mkmk' ('DFLT' <'dflt' > 'byzm' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
-ContextSub2: glyph "'rclt' Required Contextual Alternates lookup 4 subtable" 0 0 0 9
+ContextSub2: glyph "'rclt' Required Contextual Alternates lookup 4 subtable" 0 0 0 8
  String: 21 apostrofos antikenoma
- BString: 0 
- FString: 0 
+ BString: 0
+ FString: 0
  1
   SeqLookup: 1 "Single Substitution lookup 3"
  String: 18 yporroi antikenoma
- BString: 0 
- FString: 0 
+ BString: 0
+ FString: 0
  1
   SeqLookup: 1 "Single Substitution lookup 3"
- String: 30 oligonKentimataBelow psifiston
- BString: 0 
- FString: 0 
- 1
-  SeqLookup: 0 "Single Substitution lookup 3"
  String: 29 oligonIsonKentimata psifiston
- BString: 0 
- FString: 0 
+ BString: 0
+ FString: 0
  1
   SeqLookup: 1 "Single Substitution lookup 3"
  String: 32 oligonElafronKentimata psifiston
- BString: 0 
- FString: 0 
+ BString: 0
+ FString: 0
  1
   SeqLookup: 1 "Single Substitution lookup 3"
  String: 39 oligonRunningElafronKentimata psifiston
- BString: 0 
- FString: 0 
+ BString: 0
+ FString: 0
  1
   SeqLookup: 1 "Single Substitution lookup 3"
  String: 42 oligonElafronApostrofosKentimata psifiston
- BString: 0 
- FString: 0 
+ BString: 0
+ FString: 0
  1
   SeqLookup: 1 "Single Substitution lookup 3"
  String: 42 oligonElafronApostrofosKentimata psifiston
- BString: 0 
- FString: 0 
+ BString: 0
+ FString: 0
  1
   SeqLookup: 1 "Single Substitution lookup 3"
  String: 32 oligonChamiliKentimata psifiston
- BString: 0 
- FString: 0 
+ BString: 0
+ FString: 0
  1
   SeqLookup: 1 "Single Substitution lookup 3"
 EndFPST
@@ -152,7 +147,7 @@ NameList: AGL For New Fonts
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 64 8 2
+WinInfo: 61351 19 7
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "stavros" "'mark' Mark Positioning lookup 0 subtable" "diesisTertiary" "'mark' Mark Positioning lookup 0 subtable" "diesisSecondary" "'mark' Mark Positioning lookup 0 subtable" "barline" "'mark' Mark Positioning lookup 0 subtable" "yfesisTertiary" "'mark' Mark Positioning lookup 0 subtable" "yfesisSecondary" "'mark' Mark Positioning lookup 0 subtable" "fthoraTopTertiary" "'mark' Mark Positioning lookup 0 subtable" "fthoraTopSecondary" "'mark' Mark Positioning lookup 0 subtable" "yfenBelow" "'mark' Mark Positioning lookup 0 subtable" "yfenAbove" "'mark' Mark Positioning lookup 0 subtable" "koronis" "'mark' Mark Positioning lookup 0 subtable" "endofonon" "'mark' Mark Positioning lookup 0 subtable" "agogi" "'mark' Mark Positioning lookup 0 subtable" "modeTop" "'mark' Mark Positioning lookup 0 subtable" "isonIndicator" "'mark' Mark Positioning lookup 0 subtable" "measureNumber" "'mark' Mark Positioning lookup 0 subtable" "heteronConnecting" "'mark' Mark Positioning lookup 0 subtable" "omalon" "'mark' Mark Positioning lookup 0 subtable" "omalonConnecting" "'mark' Mark Positioning lookup 0 subtable" "martyriaTop" "'mark' Mark Positioning lookup 0 subtable" "martyriaBottom" "'mark' Mark Positioning lookup 0 subtable" "noteTop" "'mark' Mark Positioning lookup 0 subtable" "fthoraBottom" "'mark' Mark Positioning lookup 0 subtable" "fthoraTop" "'mark' Mark Positioning lookup 0 subtable" "heteron" "'mark' Mark Positioning lookup 0 subtable" "gorgonSecondary" "'mark' Mark Positioning lookup 0 subtable" "antikenoma" "'mark' Mark Positioning lookup 0 subtable" "gorgonBottom" "'mark' Mark Positioning lookup 0 subtable" "psifiston" "'mark' Mark Positioning lookup 0 subtable" "diesis" "'mark' Mark Positioning lookup 0 subtable" "yfesis" "'mark' Mark Positioning lookup 0 subtable" "klasmaTop" "'mark' Mark Positioning lookup 0 subtable" "klasmaBottom" "'mark' Mark Positioning lookup 0 subtable" "apli" "'mark' Mark Positioning lookup 0 subtable" "gorgonTop" "'mark' Mark Positioning lookup 0 subtable" "agogiAboveFthora" "'mkmk' Mark to Mark lookup 1 subtable"
@@ -11765,7 +11760,7 @@ StartChar: psifiston
 Encoding: 57505 57505 84
 Width: 0
 GlyphClass: 4
-Flags: W
+Flags: WO
 AnchorPoint: "psifiston" -1 458 mark 0
 LayerCount: 2
 Fore
@@ -31005,42 +31000,34 @@ EndChar
 
 StartChar: psifiston.alt01
 Encoding: 61448 61448 372
-Width: 0
+Width: -4
 GlyphClass: 4
 Flags: W
-AnchorPoint: "psifiston" -1 458 mark 0
+AnchorPoint: "psifiston" -6.24609 458 mark 0
 LayerCount: 2
 Fore
 SplineSet
-622 449 m 1,0,1
- 697 453 697 453 757.5 456 c 128,-1,2
- 818 459 818 459 896 457 c 0,3,4
- 912 453 912 453 910 439 c 128,-1,5
- 908 425 908 425 893 426 c 0,6,7
- 886 425 886 425 884.5 425.5 c 128,-1,8
- 883 426 883 426 873 426 c 0,9,10
- 845 424 845 424 780.5 382.5 c 128,-1,11
- 716 341 716 341 639.5 290.5 c 128,-1,12
- 563 240 563 240 522.5 217 c 128,-1,13
- 482 194 482 194 454 179.5 c 128,-1,14
- 426 165 426 165 362 141 c 0,15,16
- 290 113 290 113 171 105 c 128,-1,17
- 52 97 52 97 -32.5 101.5 c 128,-1,18
- -117 106 -117 106 -178 118.5 c 128,-1,19
- -239 131 -239 131 -324 154.5 c 128,-1,20
- -409 178 -409 178 -563 249 c 0,21,22
- -752 337 -752 337 -801 365 c 128,-1,23
- -850 393 -850 393 -907 424 c 1,24,25
- -917 439 -917 439 -904.5 453.5 c 128,-1,26
- -892 468 -892 468 -860 454 c 0,27,28
- -829 439 -829 439 -732 385 c 128,-1,29
- -635 331 -635 331 -484 263 c 0,30,31
- -375 213 -375 213 -247 182.5 c 128,-1,32
- -119 152 -119 152 -29 150 c 0,33,34
- 51 149 51 149 129.5 164 c 128,-1,35
- 208 179 208 179 306 234 c 1,36,37
- 418 315 418 315 492 377.5 c 128,-1,38
- 566 440 566 440 622 449 c 1,0,1
+-21.24609375 236 m 5,0,1
+ 35.00390625 244 35.00390625 244 81.25390625 256.5 c 132,-1,2
+ 127.50390625 269 127.50390625 269 166.25390625 286 c 6,3,-1
+ 225.00390625 312 l 5,4,-1
+ 486.25390625 406 l 6,5,6
+ 503.75390625 411 503.75390625 411 538.75390625 411 c 4,7,8
+ 566.25390625 411 566.25390625 411 600.62890625 408.5 c 132,-1,9
+ 635.00390625 406 635.00390625 406 680.00390625 398 c 260,10,11
+ 725.00390625 390 725.00390625 390 772.50390625 381 c 132,-1,12
+ 820.00390625 372 820.00390625 372 877.50390625 359 c 5,13,-1
+ 613.75390625 284 l 6,14,15
+ 471.25390625 243 471.25390625 243 367.50390625 213 c 132,-1,16
+ 263.75390625 183 263.75390625 183 198.75390625 161 c 5,17,18
+ 118.75390625 161 118.75390625 161 -114.99609375 203 c 4,19,20
+ -232.49609375 224 -232.49609375 224 -380.62109375 253 c 132,-1,21
+ -528.74609375 282 -528.74609375 282 -712.49609375 318 c 4,22,23
+ -733.74609375 322 -733.74609375 322 -754.37109375 327 c 132,-1,24
+ -774.99609375 332 -774.99609375 332 -797.49609375 340 c 4,25,26
+ -838.74609375 355 -838.74609375 355 -837.49609375 373 c 4,27,28
+ -837.49609375 392 -837.49609375 392 -806.24609375 386 c 6,29,-1
+ -21.24609375 236 l 5,0,1
 EndSplineSet
 EndChar
 

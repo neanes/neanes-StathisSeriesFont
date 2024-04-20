@@ -7488,8 +7488,8 @@
     },
     "antikenoma.alt01": {
       "antikenoma": [
-        0.0,
-        0.088
+        -0.004,
+        0.08
       ]
     },
     "psifiston.salt01": {
@@ -7907,7 +7907,7 @@
     "modeDeltaCapital": 1.063,
     "oligonKentimataBelow.alt01": 1.465,
     "oligonKentimataAbove.alt01": 1.465,
-    "antikenoma.alt01": 0.0,
+    "antikenoma.alt01": 0.001,
     "modeFirst.salt01": 0.945,
     "modeFourth.salt01": 0.93,
     "oligonKentimataBelow.alt02": 1.75,
@@ -11557,12 +11557,12 @@
     },
     "antikenoma.alt01": {
       "bBoxNE": [
-        0.543,
-        0.089
+        0.642,
+        0.071
       ],
       "bBoxSW": [
-        -0.543,
-        -0.201
+        -0.572,
+        -0.195
       ]
     },
     "modeFirst.salt01": {

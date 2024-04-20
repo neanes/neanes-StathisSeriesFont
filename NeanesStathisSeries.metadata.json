@@ -7877,7 +7877,7 @@
     "modeThird": 2.612,
     "modeThirdNana": 1.02,
     "modeFourth": 0.98,
-    "modeLegetos": 1.505,
+    "modeLegetos": 2.242,
     "modePlagalFirst": 0.945,
     "modePlagalSecond": 1.232,
     "modeVarys": 1.485,
@@ -11257,11 +11257,11 @@
     },
     "modeLegetos": {
       "bBoxNE": [
-        1.428,
-        0.714
+        2.167,
+        0.789
       ],
       "bBoxSW": [
-        0.188,
+        0.396,
         0.145
       ]
     },

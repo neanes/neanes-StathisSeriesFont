@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1646795337
-ModificationTime: 1713584805
+ModificationTime: 1713585098
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -1203,7 +1203,7 @@ Encoding: 57353 57353 14
 Width: 1515
 GlyphClass: 2
 Flags: W
-AnchorPoint: "gorgonTop" 757 500 basechar 0
+AnchorPoint: "gorgonTop" 760 1080 basechar 0
 AnchorPoint: "apli" 803 30 basechar 0
 AnchorPoint: "klasmaBottom" 785 160 basechar 0
 AnchorPoint: "yfesis" 1380 640 basechar 0
@@ -10174,7 +10174,7 @@ AnchorPoint: "endofonon" 772 -277 basechar 0
 AnchorPoint: "koronis" 686 801 basechar 0
 AnchorPoint: "yfenAbove" 930 641 basechar 0
 AnchorPoint: "yfenBelow" 929 -200 basechar 0
-AnchorPoint: "yfesisSecondary" 425 -145 basechar 0
+AnchorPoint: "yfesisSecondary" 220 -300 basechar 0
 AnchorPoint: "barline" 277 590 basechar 0
 AnchorPoint: "diesisSecondary" 1596 897 basechar 0
 LayerCount: 2

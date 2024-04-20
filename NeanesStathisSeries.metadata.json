@@ -7908,8 +7908,8 @@
     "oligonKentimataBelow.alt01": 1.465,
     "oligonKentimataAbove.alt01": 1.465,
     "antikenoma.alt01": 0.001,
-    "modeFirst.salt01": 0.945,
-    "modeFourth.salt01": 0.93,
+    "modeFirst.salt01": 0.98,
+    "modeFourth.salt01": 0.98,
     "oligonKentimataBelow.alt02": 1.75,
     "psifiston.salt01": 0.0,
     "heteronConnecting.salt01": 0.0,
@@ -11567,22 +11567,22 @@
     },
     "modeFirst.salt01": {
       "bBoxNE": [
-        0.829,
-        1.255
+        0.975,
+        1.266
       ],
       "bBoxSW": [
-        0.413,
-        0.074
+        0.274,
+        -0.23
       ]
     },
     "modeFourth.salt01": {
       "bBoxNE": [
-        0.887,
-        1.255
+        0.938,
+        1.224
       ],
       "bBoxSW": [
-        0.312,
-        0.08
+        0.25,
+        -0.169
       ]
     },
     "oligonKentimataBelow.alt02": {

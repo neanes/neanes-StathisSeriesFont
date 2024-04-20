@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1646795337
-ModificationTime: 1713584714
+ModificationTime: 1713584805
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -864,7 +864,7 @@ Flags: W
 AnchorPoint: "gorgonTop" 708 839 basechar 0
 AnchorPoint: "apli" 803 30 basechar 0
 AnchorPoint: "klasmaBottom" 785 160 basechar 0
-AnchorPoint: "klasmaTop" 353 487 basechar 0
+AnchorPoint: "klasmaTop" 200 487 basechar 0
 AnchorPoint: "yfesis" 1316 619 basechar 0
 AnchorPoint: "diesis" 400 133 basechar 0
 AnchorPoint: "psifiston" 840 113 basechar 0

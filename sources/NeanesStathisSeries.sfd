@@ -4,7 +4,7 @@ FullName: NeanesStathisSeries
 FamilyName: Neanes
 Weight: Book
 Copyright: 
-Version: 001.000
+Version: 1.000
 ItalicAngle: 0
 UnderlinePosition: 0
 UnderlineWidth: 0
@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1646795337
-ModificationTime: 1713586365
+ModificationTime: 1713587460
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -147,7 +147,7 @@ NameList: AGL For New Fonts
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 118940 19 7
+WinInfo: 118864 19 7
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 7340 3670 2446 0 1048576 2446 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -719,7 +719,7 @@ AnchorPoint: "psifiston" 840 113 basechar 0
 AnchorPoint: "gorgonBottom" 667 125 basechar 0
 AnchorPoint: "antikenoma" 820 165 basechar 0
 AnchorPoint: "heteron" 1087 227 basechar 0
-AnchorPoint: "fthoraTop" 889 501 basechar 0
+AnchorPoint: "fthoraTop" 1000 501 basechar 0
 AnchorPoint: "fthoraBottom" 789 209 basechar 0
 AnchorPoint: "noteTop" 188 750 basechar 0
 AnchorPoint: "omalonConnecting" 1471 133 basechar 0
@@ -871,7 +871,7 @@ AnchorPoint: "psifiston" 840 113 basechar 0
 AnchorPoint: "gorgonBottom" 667 125 basechar 0
 AnchorPoint: "antikenoma" 820 165 basechar 0
 AnchorPoint: "heteron" 1087 227 basechar 0
-AnchorPoint: "fthoraTop" 358 507 basechar 0
+AnchorPoint: "fthoraTop" 470 950 basechar 0
 AnchorPoint: "fthoraBottom" 789 209 basechar 0
 AnchorPoint: "noteTop" 314 676 basechar 0
 AnchorPoint: "omalonConnecting" 1471 133 basechar 0
@@ -1041,7 +1041,7 @@ AnchorPoint: "psifiston" 840 113 basechar 0
 AnchorPoint: "gorgonBottom" 667 125 basechar 0
 AnchorPoint: "antikenoma" 820 165 basechar 0
 AnchorPoint: "heteron" 1087 227 basechar 0
-AnchorPoint: "fthoraTop" 1227 447 basechar 0
+AnchorPoint: "fthoraTop" 1400 447 basechar 0
 AnchorPoint: "fthoraBottom" 789 209 basechar 0
 AnchorPoint: "noteTop" 314 676 basechar 0
 AnchorPoint: "omalonConnecting" 1471 133 basechar 0
@@ -1212,7 +1212,7 @@ AnchorPoint: "psifiston" 840 113 basechar 0
 AnchorPoint: "gorgonBottom" 667 125 basechar 0
 AnchorPoint: "antikenoma" 820 165 basechar 0
 AnchorPoint: "heteron" 1087 227 basechar 0
-AnchorPoint: "fthoraTop" 678 507 basechar 0
+AnchorPoint: "fthoraTop" 680 1070 basechar 0
 AnchorPoint: "fthoraBottom" 789 209 basechar 0
 AnchorPoint: "noteTop" 194 772 basechar 0
 AnchorPoint: "omalonConnecting" 1471 133 basechar 0
@@ -1453,7 +1453,7 @@ AnchorPoint: "psifiston" 840 113 basechar 0
 AnchorPoint: "gorgonBottom" 667 125 basechar 0
 AnchorPoint: "antikenoma" 820 165 basechar 0
 AnchorPoint: "heteron" 1087 227 basechar 0
-AnchorPoint: "fthoraTop" 314 1071 basechar 0
+AnchorPoint: "fthoraTop" 140 1110 basechar 0
 AnchorPoint: "fthoraBottom" 789 209 basechar 0
 AnchorPoint: "noteTop" 156 680 basechar 0
 AnchorPoint: "omalonConnecting" 1471 133 basechar 0
@@ -1745,7 +1745,7 @@ AnchorPoint: "psifiston" 840 113 basechar 0
 AnchorPoint: "gorgonBottom" 667 125 basechar 0
 AnchorPoint: "antikenoma" 820 165 basechar 0
 AnchorPoint: "heteron" 1087 227 basechar 0
-AnchorPoint: "fthoraTop" 245 1056 basechar 0
+AnchorPoint: "fthoraTop" 150 1080 basechar 0
 AnchorPoint: "fthoraBottom" 789 209 basechar 0
 AnchorPoint: "noteTop" 156 680 basechar 0
 AnchorPoint: "omalonConnecting" 1471 133 basechar 0
@@ -2010,7 +2010,7 @@ AnchorPoint: "psifiston" 840 113 basechar 0
 AnchorPoint: "gorgonBottom" 667 125 basechar 0
 AnchorPoint: "antikenoma" 820 165 basechar 0
 AnchorPoint: "heteron" 1087 227 basechar 0
-AnchorPoint: "fthoraTop" 1262 861 basechar 0
+AnchorPoint: "fthoraTop" 480 1190 basechar 0
 AnchorPoint: "fthoraBottom" 789 209 basechar 0
 AnchorPoint: "noteTop" 116 820 basechar 0
 AnchorPoint: "omalonConnecting" 1471 133 basechar 0
@@ -6223,7 +6223,7 @@ AnchorPoint: "yfesis" 1113 691 basechar 0
 AnchorPoint: "diesis" 464 147 basechar 0
 AnchorPoint: "psifiston" 795 140 basechar 0
 AnchorPoint: "antikenoma" 713 62 basechar 0
-AnchorPoint: "fthoraTop" 1020 680 basechar 0
+AnchorPoint: "fthoraTop" 1200 680 basechar 0
 AnchorPoint: "fthoraBottom" 352 162 basechar 0
 AnchorPoint: "noteTop" 214 676 basechar 0
 AnchorPoint: "heteronConnecting" 1316 -19 basechar 0
@@ -6418,7 +6418,7 @@ AnchorPoint: "yfesis" 1010 1040 basechar 0
 AnchorPoint: "diesis" 464 147 basechar 0
 AnchorPoint: "psifiston" 795 140 basechar 0
 AnchorPoint: "antikenoma" 713 62 basechar 0
-AnchorPoint: "fthoraTop" 204 842 basechar 0
+AnchorPoint: "fthoraTop" 370 1110 basechar 0
 AnchorPoint: "fthoraBottom" 352 162 basechar 0
 AnchorPoint: "noteTop" 213 960 basechar 0
 AnchorPoint: "heteronConnecting" 1316 -19 basechar 0
@@ -6687,7 +6687,7 @@ AnchorPoint: "yfesis" 1130 980 basechar 0
 AnchorPoint: "diesis" 464 147 basechar 0
 AnchorPoint: "psifiston" 795 140 basechar 0
 AnchorPoint: "antikenoma" 713 62 basechar 0
-AnchorPoint: "fthoraTop" 192 750 basechar 0
+AnchorPoint: "fthoraTop" 220 1230 basechar 0
 AnchorPoint: "fthoraBottom" 352 162 basechar 0
 AnchorPoint: "noteTop" 227 927 basechar 0
 AnchorPoint: "heteronConnecting" 1316 -19 basechar 0
@@ -9923,7 +9923,7 @@ AnchorPoint: "yfesis" 968 1337 basechar 0
 AnchorPoint: "diesis" 464 4 basechar 0
 AnchorPoint: "psifiston" 781 2 basechar 0
 AnchorPoint: "antikenoma" 713 -68 basechar 0
-AnchorPoint: "fthoraTop" 649 1101 basechar 0
+AnchorPoint: "fthoraTop" 649 1336 basechar 0
 AnchorPoint: "fthoraBottom" 352 42 basechar 0
 AnchorPoint: "noteTop" 202 1332 basechar 0
 AnchorPoint: "heteronConnecting" 1316 -19 basechar 0
@@ -32592,7 +32592,7 @@ EndChar
 StartChar: u1D0B4
 Encoding: 118964 118964 406
 Width: 620
-Flags: WO
+Flags: W
 LayerCount: 2
 Fore
 SplineSet

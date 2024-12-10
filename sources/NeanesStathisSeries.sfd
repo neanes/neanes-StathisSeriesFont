@@ -4,14 +4,13 @@ FullName: NeanesStathisSeries
 FamilyName: Neanes
 Weight: Book
 Copyright: 
-Version: 1.000
+Version: 1.001
 ItalicAngle: 0
 UnderlinePosition: 0
 UnderlineWidth: 0
 Ascent: 800
 Descent: 200
 InvalidEm: 0
-sfntRevision: 0x00010000
 LayerCount: 2
 Layer: 0 1 "Back" 1
 Layer: 1 1 "Fore" 0
@@ -22,7 +21,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1646795337
-ModificationTime: 1733852491
+ModificationTime: 1733853331
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5

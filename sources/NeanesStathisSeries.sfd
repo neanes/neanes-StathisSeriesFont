@@ -64,7 +64,7 @@ Lookup: 260 0 0 "'mark' Mark Positioning lookup 0" { "'mark' Mark Positioning lo
 Lookup: 262 0 0 "'mkmk' Mark to Mark lookup 1" { "'mkmk' Mark to Mark lookup 1 subtable"  } ['mkmk' ('DFLT' <'dflt' > 'byzm' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
-ContextSub2: glyph "'rclt' Required Contextual Alternates lookup 4 subtable" 0 0 0 8
+ContextSub2: glyph "'rclt' Required Contextual Alternates lookup 4 subtable" 0 0 0 9
  String: 21 apostrofos antikenoma
  BString: 0 
  FString: 0 
@@ -75,6 +75,11 @@ ContextSub2: glyph "'rclt' Required Contextual Alternates lookup 4 subtable" 0 0
  FString: 0 
  1
   SeqLookup: 1 "Single Substitution lookup 3"
+ String: 30 oligonKentimataBelow psifiston
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 0 "Single Substitution lookup 3"
  String: 29 oligonIsonKentimata psifiston
  BString: 0 
  FString: 0 
